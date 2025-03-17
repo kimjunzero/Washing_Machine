@@ -21,9 +21,11 @@ Atmega128A를 활용한 세탁기 프로젝트
 
 # 2. 회로도
 
-![image.png](attachment:9a9c2afd-9342-4d3b-9956-38dedc084aed:image.png)
+![ㅎㅇ](https://github.com/user-attachments/assets/067b8ff3-461d-43b4-b7e9-a35468e49a96)
 
-![image.png](attachment:1860aa0c-1844-4c5e-b649-c0809398e554:image.png)
+
+![image](https://github.com/user-attachments/assets/637fb4c0-795c-494a-bd9d-9ae1f2cddcfe)
+
 
 ---
 

@@ -17,6 +17,7 @@ Atmega128A를 활용한 세탁기 프로젝트
 
 ![image.png](attachment:e7c8d44c-16bc-456c-a8c1-7e922921277c:image.png)
 
+
 ![image.png](attachment:221150ec-c9cc-4823-ae79-d3a5d0e2eca3:image.png)
 ---
 

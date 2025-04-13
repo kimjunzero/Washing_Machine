@@ -3,6 +3,7 @@
 Atmega128A를 활용한 세탁기 프로젝트
 
 재작기간 : 2025-03-14 ~ 2025-03-17
+
 동영상 : https://youtube.com/shorts/mpp77-wn5NM
 ---
 
